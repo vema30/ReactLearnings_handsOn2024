@@ -1,0 +1,12 @@
+.heading{
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+#flname{
+  display: flex;
+}
+#gender{
+  display: flex;
+  gap: 40px;
+}
